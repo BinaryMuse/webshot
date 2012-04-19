@@ -1,4 +1,4 @@
-![https://github.com/BinaryMuse/webshot-test/raw/master/public/shotweb.jpg](How do I shot web?)
+![How do I shot web?](https://github.com/BinaryMuse/webshot-test/raw/master/public/shotweb.jpg)
 
 Take screenshots of remote web pages.
 
