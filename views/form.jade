@@ -1,0 +1,8 @@
+div(style='padding-bottom: 20px;')
+  img(src='/shotweb.jpg')
+form(action='/webshot', method='get')
+  label(for='webshot') Enter a URL to shot:
+  br
+  input(type='text', name='webshot', size=40)
+  input(type='submit', onclick='disable')
+p(class='finding', style='display: none;') Shotting webs...

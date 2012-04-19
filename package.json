@@ -1,0 +1,13 @@
+{
+  "name": "phantom-web",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "~> 2.5.8",
+    "jade": ">= 0.0.1",
+    "coffee-script": "~> 1.3.1"
+  },
+  "scripts": {
+    "start": "./node_modules/.bin/coffee server.coffee"
+  }
+}
