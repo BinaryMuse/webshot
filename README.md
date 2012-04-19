@@ -1,4 +1,4 @@
-![How do I shot web?](https://github.com/BinaryMuse/webshot-test/raw/master/public/shotweb.jpg)
+![How do I shot web?](https://github.com/BinaryMuse/webshot/raw/master/public/shotweb.jpg)
 
 ## What is it?
 
